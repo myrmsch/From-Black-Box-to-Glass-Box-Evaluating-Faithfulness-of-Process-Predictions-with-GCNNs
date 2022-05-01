@@ -1,3 +1,5 @@
+Masterarbeit: Graphenbasierte neuronale Netzte (GNN) für erklärbare prädikative Prozessanalysen
+
 Benennungsschema:
 
 Ausgangspunkt sind der Loan-Log und der Review-Log. 
