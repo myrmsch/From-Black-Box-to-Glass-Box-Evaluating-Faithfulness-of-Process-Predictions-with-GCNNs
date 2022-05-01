@@ -1,0 +1,11 @@
+lr: 0.0001
+sparsity_ziel: 0.7
+coff_size: 0.001
+coff_ent: 0.0005
+t0: 5.0
+t1: 1.0
+epochs: 5
+info: test und train Daten gleich
+fidelity+: 0.19571368396282196
+fidelity-: 0.1564004272222519
+sparsity: 0.6641538143157959

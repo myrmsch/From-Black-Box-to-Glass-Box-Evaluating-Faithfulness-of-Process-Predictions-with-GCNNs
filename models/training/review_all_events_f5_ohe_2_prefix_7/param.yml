@@ -1,0 +1,6 @@
+lr: 0.0001
+epochs: 200
+val_loss: 0.5859050184488297
+val_acc: 0.6765
+train_loss: 0.5565909854003361
+train_acc: 0.71

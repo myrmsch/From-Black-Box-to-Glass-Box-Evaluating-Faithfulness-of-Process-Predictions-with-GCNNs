@@ -1,0 +1,10 @@
+lr: 0.05
+sparsity_ziel: 0.6
+coff_size: 0.01
+coff_ent: 0.0005
+t0: 5.0
+t1: 1.0
+epochs: 5
+fidelity+: 0.17337366938591003
+fidelity-: 0.01241771038621664
+sparsity: 0.4643355906009674

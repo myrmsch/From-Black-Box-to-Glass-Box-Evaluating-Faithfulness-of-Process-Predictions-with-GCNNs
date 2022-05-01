@@ -1,0 +1,6 @@
+lr: 0.001
+sparsity_ziel: 0.6
+epochs: 500
+fidelity+: 0.07958722859621048
+fidelity-: 0.02121722139418125
+sparsity: 0.6000000238418579

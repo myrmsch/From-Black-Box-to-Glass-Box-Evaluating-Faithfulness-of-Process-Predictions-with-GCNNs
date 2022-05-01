@@ -1,0 +1,7 @@
+lr: 0.01
+sparsity_ziel: 0.7
+coff_size: 0.01
+coff_ent: 0.0005
+t0: 5.0
+t1: 1.0
+epochs: 20
