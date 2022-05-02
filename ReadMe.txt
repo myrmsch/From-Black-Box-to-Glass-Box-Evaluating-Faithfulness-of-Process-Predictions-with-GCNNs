@@ -1,5 +1,7 @@
 Masterarbeit: Graphenbasierte neuronale Netzte (GNN) für erklärbare prädikative Prozessanalysen
+
 Julius-Maximilians-Universität Würzburg
+
 
 Benennungsschema:
 
