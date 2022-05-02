@@ -1,5 +1,8 @@
 Masterarbeit: Graphenbasierte neuronale Netzte (GNN) für erklärbare prädikative Prozessanalysen
 
+Julius-Maximilians-Universität Würzburg
+
+
 Benennungsschema:
 
 Ausgangspunkt sind der Loan-Log und der Review-Log. 
@@ -39,3 +42,4 @@ Ordner:
 
 .joblib-Files sind Arrays mit Ergebnissen oder Feature-Namen gespeichert. Werden häufig im Code geladen
 .YMl-Files enthalten Ergebnisse und/oder Parameter von Tuning/Trainings Läufen. Dienen als Information zu vorgenommenen Aktionen  
+run_x Ordner sind immer ältere Läufe. Die finalen Läufe befinden sich direkt im jeweiligen Result/Training/Tuning-Ordner
